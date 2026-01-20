@@ -26,7 +26,15 @@ One unexpected result was how clear and focused the Standing Rock and Fairy Cree
 
 ---
 
-## Images
+## Assets (CSVs)
+
+- [Download CSV File 1](videos.csv)
+- [Download CSV File 2](videos2.csv)
+- [Download CSV File 3](videos3.csv)
+
+---  
+
+## Images (PNGs)
 
 ![Word Cloud 1](/StandingRock1.png)
 ![Word Cloud 2](/FairyCreek2.png)
@@ -34,10 +42,3 @@ One unexpected result was how clear and focused the Standing Rock and Fairy Cree
 
 ---
 
-## CSV Data Files
-
-- [Download CSV File 1](videos.csv)
-- [Download CSV File 2](videos2.csv)
-- [Download CSV File 3](videos3.csv)
-
----
